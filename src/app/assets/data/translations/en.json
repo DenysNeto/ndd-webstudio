@@ -1,0 +1,1649 @@
+{
+  "it_solutions": "IT solutions for your business",
+  "portfolio": "Portfolio",
+  "your_request_sent_sucessfully": "Your request was sent successfully",
+  "why_us": "Why us?",
+  "form_1": "Do you have any questions?",
+  "form_2": "Let's discuss your tasks!",
+  "landing_page": "Landing Page",
+  "price_text": "The price of development varies based on its architecture and the complexity of software components.",
+  "prices": "Prices",
+  "tech_support": "Tech Support",
+  "types_of_tech_support": "Types of tech support",
+  "tech_support_options": "Tech support options",
+  "services": "Services",
+  "basic_pages": "Basic Pages",
+  "basic_widgets": "Basic Widgets",
+  "stages": "Stages",
+  "promo_site": "Promo Site",
+  "promo_benefits": "What benefits does a Promo Site provide?",
+  "online_store": "Online Store",
+  "benefits_online_store": "What benefits does an online store provide?",
+  "corporate_site": "Corporate Site",
+  "benefits_corporate_site": "What benefits does a corporate website provide?",
+  "business_site": "Business Site",
+  "benefits_business_site": "What benefits does a Business Site provide?",
+  "learn_more": "Learn more",
+  "subHeaderCorporateSite": "In today's business landscape, a website is indispensable for any company. It's not just about having a presence online; the quality of your website plays a crucial role in shaping perceptions about your brand. When customers assess your business against competitors, they should have no doubt about your company's dominance in the market. We specialize in revamping existing websites and crafting new ones that enhance your position and set your company apart from the competition",
+  "subHeaderBusinessSite": "In today's business landscape, a website is indispensable for any company. It's not just about having a presence online; the quality of your website plays a crucial role in shaping perceptions about your brand. When customers assess your business against competitors, they should have no doubt about your company's dominance in the market. We specialize in revamping existing websites and crafting new ones that enhance your position and set your company apart from the competition.",
+  "subHeaderLandingPage": "A landing page is a website that is specifically created with the purpose of attracting visitors and motivating them to perform a specific action. The main idea of such a site is to grab the visitor's attention and convince them to complete a particular action, such as providing contact information, making a purchase, subscribing to a newsletter, requesting a consultation, etc. Such a site usually contains a minimum of navigation elements to focus the visitor's attention on the main offer and motivate them to act.",
+  "subHeaderPromoSite": "Typically, creating a promotional website is a swift process, given its limited page count. You share your concept with us, endorse the design, and receive the finalized product.Even for a basic promotional site, our team injects creativity to ensure it stands out. We approach each project with zeal, avoiding cookie-cutter solutions.",
+  "subHeaderShopSite": "We integrate the necessary modules and functions that encourage visitors to make additional purchases. Our goal is to make the operation of an online store easy and fast through specialized tools.Our developed solutions will speed up the process of creating an online store, significantly reducing the time to launch and start generating sales revenue.",
+  "subHeaderSupportSite": "Complex and large-scale projects often require ongoing support, refinement, and enhancement to achieve their business goals.We highly value long-term and trusting relationships with our clients, which is why we consider the project's ongoing maintenance and development during its development phase.",
+
+  "show_widgets": "Show widgets",
+  "hide_widgets": "Hide widgets",
+  "show_more": "Show more",
+  "benefits_landing_page": "What benefits does a Landing Page provide?",
+  "benefits_development": "Our goal is to craft a website that enhances your business using cutting-edge technologies and the expertise of our web developers. Our suite of administrative tools offers simplicity and automation, allowing you to concentrate on crucial aspects such as attracting new customers and increasing sales. Order complete website development today.",
+
+  "basic_prices": "Basic Prices",
+  "development": "Development",
+  "pricing": "Pricing",
+  "benefits_pricing": "Of course, every project is unique, and it can be difficult to determine its exact cost in advance. However, our calculator will help you estimate the expenses approximately.",
+  "main": "Main",
+  "site_type": "Site Type",
+  "pages_count": "Pages Count",
+  "modules_count": "Modules Count",
+  "prices_calculator": "Prices Calculator",
+
+  "services_arr": [
+    {
+      "header": "Online Store",
+      "text": "Develop an online store for selling products with a convenient interface for your customers",
+      "price": "from $2500"
+    },
+    {
+      "header": "Corporate Website",
+      "text": "Reflect the professionalism and reliability of your company in the online space, perfect for attracting new customers and strengthening your brand",
+      "price": "from $2100"
+    },
+    {
+      "header": "Landing Page",
+      "text": "Capture your audience's attention, increase your online presence with our landing pages, which will help you quickly achieve your goals and increase revenue",
+      "price": "from $1350"
+    },
+    {
+      "header": "Business Website",
+      "text": "Take your business to the next level with business websites designed to expand your online presence",
+      "price": "from $2100"
+    },
+    {
+      "header": "Business Card Website",
+      "text": "Reflect your uniqueness with our individually designed business card websites that speak volumes about you",
+      "price": "from $1650"
+    },
+    {
+      "header": "Technical Support",
+      "text": "Support and develop created and existing projects",
+      "price": "from $20/hour"
+    }
+  ],
+
+  "corporateSiteTasks": [
+    {
+      "header": "Positioning",
+      "text": "A website creates the first impression and showcases the company’s values, enhancing its reputation in the market."
+    },
+    {
+      "header": "Marketing",
+      "text": "A website ensures the ability to advertise and promote your business online effectively."
+    },
+    {
+      "header": "Scale",
+      "text": "Attract new customers and partners from different regions and countries, expanding your business reach."
+    }
+  ],
+  "landingPageTasks": [
+    {
+      "header": "Quick Start",
+      "text": "Launching a landing page allows you to receive inquiries/sales faster compared to creating an online store or a business website."
+    },
+    {
+      "header": "Effective Conversion",
+      "text": "A landing page is perfect for sales. The page fully focuses attention on the product or service."
+    },
+    {
+      "header": "Profit Growth",
+      "text": "With a landing page, you can launch new products or services separately from the main site, contributing to increased revenue."
+    }
+  ],
+  "promoSiteTasks": [
+    {
+      "header": "Positioning",
+      "text": "Your website is the initial point of contact, reflecting your company’s ethos and enhancing its reputation in the market."
+    },
+    {
+      "header": "Marketing",
+      "text": "A website provides a platform for online advertising and business promotion."
+    },
+    {
+      "header": "Provision Of Information",
+      "text": "Websites offer comprehensive information about a company, its operations, and the services it provides."
+    }
+  ],
+
+  "shopSiteTasks": [
+    {
+      "header": "Boost Sales Volume",
+      "text": "Online shopping is loved by all. There are many reasons, but agree that if you're in sales and not online, sooner or later you'll be overtaken by competitors."
+    },
+    {
+      "header": "Expand Market Reach",
+      "text": "Without being tied to a location. Sell products to customers from all over the country!"
+    },
+    {
+      "header": "24/7 Sales!",
+      "text": "Think about it: by operating round the clock, a company will generate more profit than sticking to a 'From 10:00 to 19:00' schedule."
+    }
+  ],
+
+  "businessSiteTasks": [
+    {
+      "header": "Positioning",
+      "text": "Your website serves as the first point of contact, reflecting your company’s values and enhancing its reputation in the market."
+    },
+    {
+      "header": "Marketing",
+      "text": "Your website serves as a platform for effective online advertising and business promotion."
+    },
+    {
+      "header": "Scale",
+      "text": "Expand your business by attracting new clients and partners from diverse regions and countries."
+    }
+  ],
+  "supportSiteModules": [
+    {
+      "title": "Enhancement of Business Logic",
+      "description": "Improving usability to make the website easier and more convenient for users."
+    },
+    {
+      "title": "Redesign",
+      "description": "Updating the current visual style, replacing images with higher quality ones, and refining functionality."
+    },
+    {
+      "title": "Front-end Development",
+      "description": "Rectifying critical errors, optimizing the website for various browsers, screen resolutions, and devices (PCs, smartphones, tablets)."
+    },
+    {
+      "title": "Refactoring",
+      "description": "Technical optimization of the codebase, error fixing, and enhancing website performance (e.g., page loading speed)."
+    },
+    {
+      "title": "Creation of New Features",
+      "description": "Adding features such as online calculators, user-friendly order forms, galleries, social media widgets, and the ability to leave comments without registration."
+    }
+  ],
+
+  "supportSiteTasks": [
+    {
+      "header": "Monthly Support",
+      "text": "Ideal for projects needing support only in the first few months after launch to address bugs, administrative errors, etc."
+    },
+    {
+      "header": "Annual Support",
+      "text": "Critical for projects requiring daily monitoring and zero operational failures. This includes e-commerce platforms, catalogs, and high-traffic websites."
+    },
+    {
+      "header": "Hourly Rate Payment",
+      "text": "Suitable for projects needing occasional tasks, periodic system updates, content updates, or adjustments to specific content blocks."
+    }
+  ],
+
+  "businessSiteSteps": [
+    {
+      "title": "Analysis",
+      "content": "Delve into understanding the target audience, while integrating SEO considerations during the development phase."
+    },
+    {
+      "title": "Prototype",
+      "content": "Map out the customer journey and interactions with content to create an effective prototype."
+    },
+    {
+      "title": "Design",
+      "content": "Craft a visually appealing design that showcases the company's identity and values."
+    },
+    {
+      "title": "Development",
+      "content": "Build an interactive design with dynamic elements and responsive coding for an optimal user experience."
+    },
+    {
+      "title": "Launch",
+      "content": "Execute the launch phase by tracking analytics, testing, improving, and providing ongoing support."
+    }
+  ],
+
+  "corporateSiteSteps": [
+    {
+      "title": "Analysis",
+      "content": "Understanding the target audience and planning for search engine optimization during development."
+    },
+    {
+      "title": "Prototype",
+      "content": "Mapping out the customer journey and how they engage with the website's content."
+    },
+    {
+      "title": "Design",
+      "content": "Crafting a visually appealing design that reflects positively on the company."
+    },
+    {
+      "title": "Development",
+      "content": "Building an interactive interface with dynamic elements and coding for adaptability across devices."
+    }
+  ],
+
+  "landingPageSteps": [
+    {
+      "title": "Analysis",
+      "content": "Conduct analysis of the business product or service, study competitors and the company's audience."
+    },
+    {
+      "title": "Prototype",
+      "content": "We form the user journey and determine how they interact with the content, developing a prototype."
+    },
+    {
+      "title": "Design",
+      "content": "Create an attractive design with a clear call to action. Implement marketing strategies to attract attention."
+    },
+    {
+      "title": "Development",
+      "content": "We carry out website development with interactive design, using dynamic elements and providing adaptive layout for user convenience."
+    },
+    {
+      "title": "Launch and Analytics",
+      "content": "Monitor the effectiveness of the created landing page, conduct testing, and implement improvements based on the results obtained."
+    }
+  ],
+
+  "promoSiteSteps": [
+    {
+      "title": "Analysis",
+      "content": "Thoroughly explore your business subject and analyze competitors to gain valuable insights."
+    },
+    {
+      "title": "Design",
+      "content": "Craft a visually appealing design that leaves a positive impression of your company."
+    },
+    {
+      "title": "Development",
+      "content": "Develop an interactive design with dynamic elements and responsive coding to ensure adaptability across devices."
+    },
+    {
+      "title": "Content",
+      "content": "Curate and populate the website with relevant information about your company’s business and offerings."
+    },
+    {
+      "title": "Launch",
+      "content": "Provide ongoing support and assistance in content management to ensure a successful website launch."
+    }
+  ],
+
+  "shopSiteSteps": [
+    {
+      "title": "Analysis",
+      "content": "Conduct research on the target audience and competitors, as well as set up SEO during the development phase."
+    },
+    {
+      "title": "Prototype",
+      "content": "Develop the user journey and determine their interaction with the content."
+    },
+    {
+      "title": "Design",
+      "content": "Create a design that makes online shopping experience intuitive and enjoyable."
+    },
+    {
+      "title": "Development",
+      "content": "Implement a website with interactive design, dynamic elements, and responsive layout."
+    },
+    {
+      "title": "Result",
+      "content": "Launch the project with automated features, metrics, integration, and synchronization with relevant services."
+    }
+  ],
+  "businessSiteFAQ": [
+    {
+      "title": "What is a Business Website?",
+      "content": "A business website is a multi-page web resource aimed at small and medium-sized businesses. It is designed to create an online image of the company, provide information about the offered services and company's capabilities, as well as attract new clients and partners."
+    },
+    {
+      "title": "What is the cost and timeline for creating a Business Website?",
+      "content": "The cost and timeline for developing a Business Website are determined by several stages of work. Initially, market analysis is conducted, then the structure of sections is created, and the company's positioning is formed. Then comes the UI/UX design and programming stages. Examples of cost calculation are available in our 'cost calculator'."
+    },
+    {
+      "title": "What is the difference between Corporate and Business Websites?",
+      "content": "Business websites are generally simpler in structure and contain fewer pages than corporate ones. They do not provide internal sections for registered users and are aimed at small and medium-sized businesses. Whereas corporate websites have a more complex structure with various levels of nesting and are intended for medium and large businesses."
+    }
+  ],
+  "corporateSiteFAQ": [
+    {
+      "title": "What is a corporate website?",
+      "content": "A corporate website is a multi-page resource designed for medium and large companies. It includes information about the company itself, its services, as well as data for partners and internal sections for employees."
+    },
+    {
+      "title": "What is the cost and timeline for creating a corporate website?",
+      "content": "The cost and timeline for developing a corporate website depend on several stages of work. Initially, market analysis is conducted, then the structure of sections is created, and the company's positioning is formed. Then comes the UI/UX design and programming stages. Examples of cost calculation can be found in our 'cost calculator'."
+    },
+    {
+      "title": "Why do you need a corporate website?",
+      "content": "The main functions of a corporate website include maintaining and improving the company's image, attracting new clients and partners, as well as optimizing some internal business processes such as lead generation, automatic mailings, and data collection and analysis."
+    }
+  ],
+  "landingPageFAQ": [
+    {
+      "title": "What is better: Landing page or multi-page website?",
+      "content": "If you are promoting a specific product or service, it is better to choose the creation of a landing page. This allows you to focus the user's attention on this offer, significantly increasing the likelihood of completing the desired action, whether it's a purchase, subscription, or registration."
+    },
+    {
+      "title": "What is the cost of creating a Landing page?",
+      "content": "The cost of developing a landing page includes several stages. Initially, market analysis is conducted, then the structure of the page is created and the content is prepared. Then comes the stage of interface design and user experience (UI/UX), after which programming begins. Examples of cost calculation can be found in our 'cost calculator'."
+    },
+    {
+      "title": "What is the timeline for creating a Landing page?",
+      "content": "The timelines depend on the complexity of the design and the number of meaningful blocks on the page. On average, creating a high-quality and stylish landing page takes from 2 to 5 weeks. Examples of timeline calculation can be seen in our 'cost calculator'."
+    }
+  ],
+  "promoSiteFAQ": [
+    {
+      "title": "What is a Business site?",
+      "content": "A Business site is a multi-page web resource aimed at small and medium-sized businesses. It is oriented towards shaping the online image of the company, providing information about the company's offered services and opportunities, as well as attracting new clients and partners."
+    },
+    {
+      "title": "What is the cost and timeline for creating a Business site?",
+      "content": "The cost and timeline for developing a Business site are determined by several stages of work. Initially, market analysis is conducted, then the structure of sections is created, and the company's positioning is formed. Then come the UI/UX design and programming stages. Examples of cost calculation are available in our 'cost calculator'."
+    },
+    {
+      "title": "What is the difference between a Corporate and a Business site?",
+      "content": "Business sites are usually simpler in structure and contain fewer pages than corporate ones. They do not provide internal sections for registered users and are aimed at small and medium-sized businesses. While corporate sites have a more complex structure with various levels of nesting and are intended for medium and large businesses."
+    }
+  ],
+  "shopSiteFAQ": [
+    {
+      "title": "What is better: an online store, a catalog, or a Landing Page?",
+      "content": "The choice between an online store, a catalog, or a Landing Page depends on the type and quantity of your products. If you have more than 10 products that can be delivered to the customer within a few days, an online store is suitable for you. If you have up to 10 products and do not plan to expand the range, a Landing Page is the optimal choice. If the products are made to order, then depending on their quantity, either a catalog or a Landing Page will be suitable."
+    },
+    {
+      "title": "What is the cost of developing an online store?",
+      "content": "The cost of creating an online store is mainly determined by the required functionality. Examples of cost calculation can be found in our 'cost calculator'."
+    },
+    {
+      "title": "What is the timeframe for creating an online store?",
+      "content": "The development time for an online store typically ranges from 1.5 to 8 months. This depends on the requirements for functionality, the number of products, and the need for integrations with CRM and ERP systems. Examples of timeframe calculation can be seen in our 'cost calculator'."
+    }
+  ],
+  "businessSiteStructure": [
+    {
+      "pageTitle": "Home Page",
+      "pageDescription": "The Home Page provides an overview of the company and directs visitors to the main sections of the site.",
+      "widgets": [
+        "Hero Section",
+        "Brief description of services or products",
+        "Call to Action Button",
+        "Benefits Section",
+        "Customer Testimonials",
+        "Image Gallery",
+        "Video Player",
+        "Partners Section",
+        "Lead Capture Form"
+      ]
+    },
+    {
+      "pageTitle": "About Us",
+      "pageDescription": "The 'About Us' page provides information about the company, its mission, values, and team.",
+      "widgets": [
+        "Company History",
+        "Mission and Values",
+        "Team Section",
+        "Our Achievements",
+        "Trust Badges",
+        "Company Overview Video"
+      ]
+    },
+    {
+      "pageTitle": "Services",
+      "pageDescription": "The 'Services' page provides a comprehensive list of offered services with detailed descriptions.",
+      "widgets": [
+        "List of all services with detailed descriptions",
+        "Image Slider",
+        "Portfolio",
+        "Accordion",
+        "Inquiry Form"
+      ]
+    },
+    {
+      "pageTitle": "Pricing",
+      "pageDescription": "The 'Pricing' page provides information about the cost of various service packages and special offers.",
+      "widgets": [
+        "Pricing Tables",
+        "Calculator",
+        "Special Offers and Promotions",
+        "Call to Action Button",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "pageTitle": "Contact",
+      "pageDescription": "The 'Contact' page provides information on how to contact the company and the location of offices or stores.",
+      "widgets": [
+        "Contact Form",
+        "Map",
+        "Contact Information",
+        "Business Hours",
+        "Social Media Icons",
+        "Callback Request Form"
+      ]
+    },
+    {
+      "pageTitle": "FAQ",
+      "pageDescription": "The 'FAQ' page contains answers to the most frequently asked questions by visitors.",
+      "widgets": [
+        "FAQ Section",
+        "Links to useful articles and guides",
+        "Video Player",
+        "Lead Capture Form"
+      ]
+    },
+    {
+      "pageTitle": "Blog",
+      "pageDescription": "The 'Blog' page contains articles, news, and updates from the company.",
+      "widgets": [
+        "Article List",
+        "Blog Search",
+        "Blog Categories",
+        "Popular Articles",
+        "Blog Subscription Form"
+      ]
+    },
+    {
+      "pageTitle": "Careers",
+      "pageDescription": "The 'Careers' page provides information about current job openings and opportunities for applicants.",
+      "widgets": [
+        "Job Listings",
+        "Resume Submission Form",
+        "Employee Stories",
+        "Work Benefits Section",
+        "Culture Video"
+      ]
+    },
+    {
+      "pageTitle": "Partners",
+      "pageDescription": "The 'Partners' page provides information about our partners and collaboration.",
+      "widgets": [
+        "Partners List",
+        "Partners Testimonials",
+        "Partnership Inquiry Form",
+        "Success Stories",
+        "Trust Badges"
+      ]
+    },
+    {
+      "pageTitle": "Events",
+      "pageDescription": "The 'Events' page contains information about upcoming and past company events.",
+      "widgets": [
+        "Events Calendar",
+        "Upcoming Events List",
+        "Past Events List",
+        "Event Registration Form",
+        "Events Media Gallery"
+      ]
+    }
+  ],
+  "corporateSiteStructure": [
+    {
+      "pageTitle": "Home Page",
+      "pageDescription": "The Home Page provides an overview of the company and directs visitors to the main sections of the site.",
+      "widgets": [
+        "Hero Section",
+        "Brief description of services or products",
+        "Call to Action Button",
+        "Benefits Section",
+        "Customer Testimonials",
+        "Image Gallery",
+        "Video Player",
+        "Partners Section",
+        "Lead Capture Form"
+      ]
+    },
+    {
+      "pageTitle": "About Us",
+      "pageDescription": "The 'About Us' page provides information about the company, its mission, values, and team.",
+      "widgets": [
+        "Company History",
+        "Mission and Values",
+        "Team Section",
+        "Our Achievements",
+        "Trust Badges",
+        "Company Overview Video"
+      ]
+    },
+    {
+      "pageTitle": "Services",
+      "pageDescription": "The 'Services' page provides a comprehensive list of offered services with detailed descriptions.",
+      "widgets": [
+        "List of all services with detailed descriptions",
+        "Image Slider",
+        "Portfolio",
+        "Accordion",
+        "Inquiry Form"
+      ]
+    },
+    {
+      "pageTitle": "Pricing",
+      "pageDescription": "The 'Pricing' page provides information about the cost of various service packages and special offers.",
+      "widgets": [
+        "Pricing Tables",
+        "Calculator",
+        "Special Offers and Promotions",
+        "Call to Action Button",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "pageTitle": "Contact",
+      "pageDescription": "The 'Contact' page provides information on how to contact the company and the location of offices or stores.",
+      "widgets": [
+        "Contact Form",
+        "Map",
+        "Contact Information",
+        "Business Hours",
+        "Social Media Icons",
+        "Callback Request Form"
+      ]
+    },
+    {
+      "pageTitle": "FAQ",
+      "pageDescription": "The 'FAQ' page contains answers to the most frequently asked questions by visitors.",
+      "widgets": [
+        "FAQ Section",
+        "Links to useful articles and guides",
+        "Video Player",
+        "Lead Capture Form"
+      ]
+    },
+    {
+      "pageTitle": "Blog",
+      "pageDescription": "The 'Blog' page contains articles, news, and updates from the company.",
+      "widgets": [
+        "Article List",
+        "Blog Search",
+        "Blog Categories",
+        "Popular Articles",
+        "Blog Subscription Form"
+      ]
+    },
+    {
+      "pageTitle": "Careers",
+      "pageDescription": "The 'Careers' page provides information about current job openings and opportunities for applicants.",
+      "widgets": [
+        "Job Listings",
+        "Resume Submission Form",
+        "Employee Stories",
+        "Work Benefits Section",
+        "Culture Video"
+      ]
+    },
+    {
+      "pageTitle": "Partners",
+      "pageDescription": "The 'Partners' page provides information about our partners and collaboration.",
+      "widgets": [
+        "Partners List",
+        "Partners Testimonials",
+        "Partnership Inquiry Form",
+        "Success Stories",
+        "Trust Badges"
+      ]
+    },
+    {
+      "pageTitle": "Events",
+      "pageDescription": "The 'Events' page contains information about upcoming and past company events.",
+      "widgets": [
+        "Events Calendar",
+        "Upcoming Events List",
+        "Past Events List",
+        "Event Registration Form",
+        "Events Media Gallery"
+      ]
+    }
+  ],
+  "landingPageStructure": [
+    {
+      "pageTitle": "Home Page",
+      "pageDescription": "The Home Page provides a general overview and directs visitors to the main sections of the site.",
+      "widgets": [
+        "Hero Section",
+        "Brief Description of Services or Products",
+        "Call to Action",
+        "Benefits Section",
+        "Customer Testimonials",
+        "Image Gallery",
+        "Video Player",
+        "Partners Section",
+        "Lead Capture Form"
+      ]
+    },
+    {
+      "pageTitle": "About Us",
+      "pageDescription": "The 'About Us' page provides information about the company, its mission, values, and team.",
+      "widgets": [
+        "Company History",
+        "Mission and Values",
+        "Team",
+        "Achievements Section",
+        "Trust Badges",
+        "Short Company Video"
+      ]
+    },
+    {
+      "pageTitle": "Services",
+      "pageDescription": "The 'Services' page provides a comprehensive list of offered services with detailed descriptions of each.",
+      "widgets": [
+        "List of All Services with Detailed Descriptions",
+        "Image Carousel",
+        "Examples of Completed Projects",
+        "FAQs",
+        "Inquiry Form"
+      ]
+    },
+    {
+      "pageTitle": "Prices",
+      "pageDescription": "The 'Prices' page provides information about the cost of various service packages and special offers.",
+      "widgets": [
+        "Price Tables",
+        "Calculator",
+        "Special Offers and Deals",
+        "Call to Action",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "pageTitle": "Contacts",
+      "pageDescription": "The 'Contacts' page provides information on how to contact the company and the location of offices or stores.",
+      "widgets": [
+        "Contact Form",
+        "Map",
+        "Contact Information",
+        "Business Hours",
+        "Social Media Links",
+        "Callback Request Form"
+      ]
+    },
+    {
+      "pageTitle": "FAQs",
+      "pageDescription": "The 'Frequently Asked Questions' page contains answers to the most commonly asked questions by visitors.",
+      "widgets": [
+        "FAQ Section",
+        "Links to Useful Articles and Guides",
+        "Video Tutorials",
+        "Lead Capture Form"
+      ]
+    }
+  ],
+  "promoSiteStructure": [
+    {
+      "title": "Home Page",
+      "description": "The main page of the website, designed to attract visitors' attention and present basic information about the product or service.",
+      "widgets": [
+        "Hero Section",
+        "Lead Capture Form",
+        "Navigation Menu",
+        "Image Slider",
+        "Video Player",
+        "Testimonials",
+        "Call to Action Button",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "title": "About Us",
+      "description": "A page presenting information about the company, its history, mission, values, team, and achievements.",
+      "widgets": [
+        "Hero Section",
+        "About Us Section",
+        "Testimonials",
+        "Trust Badges",
+        "Short Company Video (Video Player)"
+      ]
+    },
+    {
+      "title": "Services",
+      "description": "A page describing the main services or products of the company, their features, and benefits.",
+      "widgets": [
+        "Hero Section",
+        "Benefits Section",
+        "Image Slider",
+        "Portfolio",
+        "Accordion for frequently asked questions about each service",
+        "Inquiry Form"
+      ]
+    },
+    {
+      "title": "Pricing",
+      "description": "A page providing information about the prices of the company's products or services, as well as available plans and tariffs.",
+      "widgets": [
+        "Pricing Tables",
+        "Calculator",
+        "Special Offers and Promotions",
+        "Call to Action Button",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "title": "Contact",
+      "description": "A page with the company's contact information, a feedback form, a map with location, and working hours.",
+      "widgets": [
+        "Contact Form",
+        "Map",
+        "Contact Information",
+        "Callback Request Form",
+        "Social Media Icons"
+      ]
+    },
+    {
+      "title": "FAQ",
+      "description": "A page with frequently asked questions and answers to help visitors quickly find the information they need.",
+      "widgets": [
+        "FAQ Section",
+        "Video Tutorials (Video Player) for solving common problems",
+        "Lead Capture Form for obtaining additional information or subscribing to news"
+      ]
+    }
+  ],
+  "onlineShopStructure": [
+    {
+      "title": "Home Page",
+      "description": "The main page of the store designed to attract visitors' attention and provide basic information about the products or services.",
+      "widgets": [
+        "Hero Section",
+        "Subscription Form",
+        "Navigation Menu",
+        "Product Slider",
+        "Product Video Reviews",
+        "Customer Reviews",
+        "Call to Action Button",
+        "Countdown Timer"
+      ]
+    },
+    {
+      "title": "About Us",
+      "description": "A page presenting information about the store, its history, mission, values, and team.",
+      "widgets": [
+        "Hero Section",
+        "About Us Section",
+        "Customer Reviews",
+        "Trust Badges",
+        "Video Office"
+      ]
+    },
+    {
+      "title": "Product Catalog",
+      "description": "A page showcasing the complete catalog of products or services offered by the store.",
+      "widgets": [
+        "Product Filters",
+        "Product Category Slider",
+        "Popular Products",
+        "Related Products",
+        "Inquiry Form"
+      ]
+    },
+    {
+      "title": "Cart",
+      "description": "A page displaying selected products and providing the option to place an order.",
+      "widgets": [
+        "Selected Products List",
+        "Order Cost Calculator",
+        "Order Form",
+        "Call to Action Button",
+        "Promo Codes and Discounts"
+      ]
+    },
+    {
+      "title": "Payment and Delivery",
+      "description": "A page with information about available payment and delivery methods.",
+      "widgets": [
+        "Payment Methods Table",
+        "Delivery Options Table",
+        "Delivery Time Information",
+        "Call to Action Button"
+      ]
+    },
+    {
+      "title": "Contact",
+      "description": "A page with the store's contact information, feedback form, and map location.",
+      "widgets": [
+        "Contact Form",
+        "Map",
+        "Contact Information",
+        "Callback Request Form",
+        "Social Media Icons"
+      ]
+    },
+    {
+      "title": "Frequently Asked Questions (FAQ)",
+      "description": "A page with frequently asked questions and answers to help visitors find the information they need quickly.",
+      "widgets": [
+        "FAQ Section",
+        "Video Tutorials for common issues",
+        "Subscription Form for receiving additional information or special offers"
+      ]
+    }
+  ],
+  "onlineStoreWidgets": [
+    {
+      "name": "Hero Section",
+      "description": "Large headline, subheadline, and call-to-action (CTA) with background image or video."
+    },
+    {
+      "name": "Lead Capture Form",
+      "description": "Simple form for collecting visitor contact information, such as name and email."
+    },
+    {
+      "name": "Navigation Menu",
+      "description": "Simplified menu that allows visitors to quickly find the information they need."
+    },
+    {
+      "name": "Product Slider",
+      "description": "Carousel of products or banners to showcase key products or services."
+    },
+    {
+      "name": "Product Video Reviews",
+      "description": "Embedded video explaining a product or service."
+    },
+    {
+      "name": "Customer Reviews",
+      "description": "Block of customer reviews to build trust."
+    },
+    {
+      "name": "Call to Action Button",
+      "description": "Buttons prompting action, such as 'Buy Now' or 'Book a Consultation'."
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "To create a sense of urgency, especially for promotions and sales."
+    },
+    {
+      "name": "Image Gallery",
+      "description": "To showcase product photos, events, or team members."
+    },
+    {
+      "name": "Social Media Icons",
+      "description": "Links to social media pages."
+    },
+    {
+      "name": "Map",
+      "description": "Embedded map to indicate the location of your office or store."
+    },
+    {
+      "name": "Progress Bar",
+      "description": "To display stages of a process, such as order fulfillment."
+    },
+    {
+      "name": "Subscription Forms",
+      "description": "Form for subscribing to newsletters or updates."
+    },
+    {
+      "name": "Pop-up",
+      "description": "Pop-up window for special offers or collecting contact information."
+    },
+    {
+      "name": "Pricing Tables",
+      "description": "To compare different plans or service packages."
+    },
+    {
+      "name": "Sticky Header",
+      "description": "Top menu that remains on the screen when scrolling the page."
+    },
+    {
+      "name": "About Us Section",
+      "description": "Brief information about the company or team."
+    },
+    {
+      "name": "Contact Form",
+      "description": "Form for sending messages or inquiries."
+    },
+    {
+      "name": "Trust Badges",
+      "description": "Badges to increase trust, such as security certificates or partner logos."
+    },
+    {
+      "name": "Testimonials Carousel",
+      "description": "Dynamic carousel of customer testimonials that automatically rotates."
+    },
+    {
+      "name": "FAQ Section",
+      "description": "Block of frequently asked questions and answers."
+    },
+    {
+      "name": "Partners Section",
+      "description": "Logos and links to partner companies and sponsors."
+    },
+    {
+      "name": "Interactive Maps",
+      "description": "Maps with interactive features, such as marking offices or stores."
+    },
+    {
+      "name": "Calculator",
+      "description": "Interactive tool for calculating the cost of a service or product."
+    },
+    {
+      "name": "Event Countdown Timer",
+      "description": "Timer counting down to the start of an event or promotion."
+    },
+    {
+      "name": "Callback Request",
+      "description": "Form for requesting a callback from the company."
+    },
+    {
+      "name": "Social Media Feed",
+      "description": "Embedded feed from social networks, such as Instagram or Twitter."
+    },
+    {
+      "name": "Portfolio",
+      "description": "Examples of completed works or projects."
+    },
+    {
+      "name": "Booking Form",
+      "description": "Form for booking services or registering for events."
+    },
+    {
+      "name": "Multi-Step Forms",
+      "description": "Forms divided into multiple steps to simplify completion."
+    },
+    {
+      "name": "Quick Action Buttons",
+      "description": "Quick links for primary actions, such as 'Call Now', 'Message on WhatsApp'."
+    },
+    {
+      "name": "Interactive Charts and Graphs",
+      "description": "Visualization of data about products, services, or the company."
+    },
+    {
+      "name": "Multilingual Support",
+      "description": "Language selection for displaying content."
+    },
+    {
+      "name": "Blog",
+      "description": "List of articles and company news."
+    },
+    {
+      "name": "Job Listings",
+      "description": "Open job positions and career information within the company."
+    },
+    {
+      "name": "Events Calendar",
+      "description": "Calendar of upcoming events and activities."
+    },
+    {
+      "name": "Event Registration Form",
+      "description": "Form for registering for events."
+    },
+    {
+      "name": "Employee Stories",
+      "description": "Stories and testimonials from company employees."
+    },
+    {
+      "name": "Weather Widget",
+      "description": "Information about current weather, if relevant to the site."
+    }
+  ],
+  "promoWidgets": [
+    {
+      "name": "Hero Section",
+      "description": "Large headline, subheadline, and call-to-action (CTA) with a background image or video."
+    },
+    {
+      "name": "Lead Capture Form",
+      "description": "Simple form for collecting visitor contact information, such as name and email."
+    },
+    {
+      "name": "Navigation Menu",
+      "description": "Simplified menu that allows visitors to quickly find the information they need."
+    },
+    {
+      "name": "Image Slider",
+      "description": "Carousel of images or banners to showcase key products or services."
+    },
+    {
+      "name": "Video Player",
+      "description": "Embedded video explaining a product or service."
+    },
+    {
+      "name": "Accordion",
+      "description": "Expanding sections for simplified presentation of information, such as FAQs."
+    },
+    {
+      "name": "Testimonials",
+      "description": "Block of customer testimonials to build trust."
+    },
+    {
+      "name": "Call to Action Button",
+      "description": "Buttons prompting action, such as 'Buy Now' or 'Sign Up for Consultation'."
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "Creates a sense of urgency, especially for promotions and sales."
+    },
+    {
+      "name": "Image Gallery",
+      "description": "To showcase product photos, events, or team."
+    },
+    {
+      "name": "Social Media Icons",
+      "description": "Links to social media pages."
+    },
+    {
+      "name": "Map",
+      "description": "Embedded map to indicate the location of your office or store."
+    },
+    {
+      "name": "Progress Bar",
+      "description": "To display process stages, such as order fulfillment."
+    },
+    {
+      "name": "Subscription Forms",
+      "description": "Form for subscribing to newsletters or updates."
+    },
+    {
+      "name": "Pop-up",
+      "description": "Pop-up window for special offers or collecting contact information."
+    },
+    {
+      "name": "Pricing Tables",
+      "description": "For comparing different plans or service packages."
+    },
+    {
+      "name": "Sticky Header",
+      "description": "Top menu that remains on screen when scrolling the page."
+    },
+    {
+      "name": "About Us Section",
+      "description": "Brief information about the company or team."
+    },
+    {
+      "name": "Contact Form",
+      "description": "Form for sending messages or inquiries."
+    },
+    {
+      "name": "Trust Badges",
+      "description": "Icons to increase trust, such as security certificates or partner logos."
+    },
+    {
+      "name": "Testimonials Carousel",
+      "description": "Dynamic carousel of customer testimonials that automatically switches."
+    },
+    {
+      "name": "FAQ Section",
+      "description": "Block of frequently asked questions and answers."
+    },
+    {
+      "name": "Partners Section",
+      "description": "Logos and links to company partners and sponsors."
+    },
+    {
+      "name": "Interactive Maps",
+      "description": "Maps with interactive features, such as marking offices or stores."
+    },
+    {
+      "name": "Calculator",
+      "description": "Interactive tool for calculating the cost of a service or product."
+    },
+    {
+      "name": "Event Countdown Timer",
+      "description": "Timer counting down to the start of an event or promotion."
+    },
+    {
+      "name": "Callback Request",
+      "description": "Form for requesting a callback from the company."
+    },
+    {
+      "name": "Social Media Feed",
+      "description": "Embedded feed from social networks, such as Instagram or Twitter."
+    },
+    {
+      "name": "Portfolio",
+      "description": "Examples of completed works or projects."
+    },
+    {
+      "name": "Booking Form",
+      "description": "Form for booking services or registering for events."
+    },
+    {
+      "name": "Multi-Step Forms",
+      "description": "Forms divided into multiple steps to simplify completion."
+    },
+    {
+      "name": "Quick Action Buttons",
+      "description": "Quick links for primary actions, such as 'Call', 'Write on WhatsApp'."
+    },
+    {
+      "name": "Interactive Charts and Graphs",
+      "description": "Visualization of data about products, services, or the company."
+    },
+    {
+      "name": "Multilingual Support",
+      "description": "Language selection for content display."
+    },
+    {
+      "name": "Blog",
+      "description": "List of company articles and news."
+    },
+    {
+      "name": "Job Listings",
+      "description": "Open job listings and career information in the company."
+    },
+    {
+      "name": "Events Calendar",
+      "description": "Calendar of upcoming events and activities."
+    },
+    {
+      "name": "Event Registration Form",
+      "description": "Form for registering for events."
+    },
+    {
+      "name": "Employee Stories",
+      "description": "Stories and reviews from company employees."
+    },
+    {
+      "name": "Weather Widget",
+      "description": "Information about current weather, if relevant to the site."
+    }
+  ],
+  "landingPageWidgets": [
+    {
+      "name": "Hero Section",
+      "description": "Large heading, subheading, and call to action (CTA) with a background image or video."
+    },
+    {
+      "name": "Lead Capture Form",
+      "description": "Simple form for collecting visitor contact information, such as name and email."
+    },
+    {
+      "name": "Navigation Menu",
+      "description": "Simplified menu that allows visitors to quickly find the information they need."
+    },
+    {
+      "name": "Image Slider",
+      "description": "Carousel of images or banners to showcase key products or services."
+    },
+    {
+      "name": "Video Player",
+      "description": "Embedded video explaining a product or service."
+    },
+    {
+      "name": "Accordion",
+      "description": "Expanding sections for simplified presentation of information, such as FAQs."
+    },
+    {
+      "name": "Testimonial",
+      "description": "Block of customer testimonials to increase trust."
+    },
+    {
+      "name": "Call to Action Button",
+      "description": "Buttons prompting action, such as 'Buy Now' or 'Sign Up for a Consultation'."
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "To create a sense of urgency, especially for promotions and sales."
+    },
+    {
+      "name": "Image Gallery",
+      "description": "To showcase product photos, events, or team."
+    },
+    {
+      "name": "Social Media Icons",
+      "description": "Links to pages on social networks."
+    },
+    {
+      "name": "Map",
+      "description": "Embedded map to indicate the location of your office or store."
+    },
+    {
+      "name": "Progress Bar",
+      "description": "To display the stages of a process, such as order completion."
+    },
+    {
+      "name": "Subscription Forms",
+      "description": "Form for subscribing to newsletters or updates."
+    },
+    {
+      "name": "Pop-up",
+      "description": "Pop-up window for special offers or collecting contact information."
+    },
+    {
+      "name": "Pricing Tables",
+      "description": "For comparing different plans or service packages."
+    },
+    {
+      "name": "Sticky Header",
+      "description": "Top menu that remains on the screen when scrolling the page."
+    },
+    {
+      "name": "About Us Section",
+      "description": "Brief information about the company or team."
+    },
+    {
+      "name": "Contact Form",
+      "description": "Form for sending messages or inquiries."
+    },
+    {
+      "name": "Trust Badges",
+      "description": "Icons to increase trust, such as security certificates or partner logos."
+    },
+    {
+      "name": "Testimonials Carousel",
+      "description": "Dynamic carousel of customer testimonials that automatically switches."
+    },
+    {
+      "name": "FAQ Section",
+      "description": "Block of frequently asked questions and answers to them."
+    },
+    {
+      "name": "Partners Section",
+      "description": "Logos and links to partner companies and sponsors."
+    },
+    {
+      "name": "Interactive Maps",
+      "description": "Maps with interactive features, such as marking offices or stores."
+    },
+    {
+      "name": "Calculator",
+      "description": "Interactive tool for calculating the cost of a service or product."
+    },
+    {
+      "name": "Event Countdown Timer",
+      "description": "Timer counting down to the start of an event or promotion."
+    },
+    {
+      "name": "Callback Request",
+      "description": "Form for requesting a callback from the company."
+    },
+    {
+      "name": "Social Media Feed",
+      "description": "Embedded feed from social networks, such as Instagram or Twitter."
+    },
+    {
+      "name": "Portfolio",
+      "description": "Examples of completed work or projects."
+    },
+    {
+      "name": "Booking Form",
+      "description": "Form for booking services or registering for events."
+    },
+    {
+      "name": "Multi-Step Forms",
+      "description": "Forms divided into multiple steps to simplify completion."
+    },
+    {
+      "name": "Quick Action Buttons",
+      "description": "Quick links for primary actions, such as 'Call', 'Write in WhatsApp'."
+    },
+    {
+      "name": "Interactive Charts and Graphs",
+      "description": "Visualization of data about products, services, or company."
+    },
+    {
+      "name": "Multilingual Support",
+      "description": "Language selection for content display."
+    }
+  ],
+  "corporateWidgets": [
+    {
+      "name": "Hero Section",
+      "description": "Large headline, subheadline, and call-to-action (CTA) with a background image or video."
+    },
+    {
+      "name": "Lead Capture Form",
+      "description": "Simple form for collecting visitor contact information, such as name and email."
+    },
+    {
+      "name": "Navigation Menu",
+      "description": "Simplified menu that allows visitors to quickly find the information they need."
+    },
+    {
+      "name": "Image Slider",
+      "description": "Carousel of images or banners to showcase key products or services."
+    },
+    {
+      "name": "Video Player",
+      "description": "Embedded video explaining a product or service."
+    },
+    {
+      "name": "Accordion",
+      "description": "Expanding sections for simplified presentation of information, such as FAQs."
+    },
+    {
+      "name": "Testimonials",
+      "description": "Block of customer testimonials to build trust."
+    },
+    {
+      "name": "Call to Action Button",
+      "description": "Buttons prompting action, such as 'Buy Now' or 'Schedule a Consultation'."
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "Creates a sense of urgency, especially for promotions and sales."
+    },
+    {
+      "name": "Image Gallery",
+      "description": "Displays product photos, events, or team members."
+    },
+    {
+      "name": "Social Media Icons",
+      "description": "Links to social media pages."
+    },
+    {
+      "name": "Map",
+      "description": "Embedded map to indicate the location of your office or store."
+    },
+    {
+      "name": "Progress Bar",
+      "description": "Displays stages of a process, such as order fulfillment."
+    },
+    {
+      "name": "Subscription Forms",
+      "description": "Form for subscribing to newsletters or updates."
+    },
+    {
+      "name": "Pop-up",
+      "description": "Pop-up window for special offers or collecting contact information."
+    },
+    {
+      "name": "Pricing Tables",
+      "description": "Compares different plans or service packages."
+    },
+    {
+      "name": "Sticky Header",
+      "description": "Top menu that remains on the screen when scrolling."
+    },
+    {
+      "name": "About Us Section",
+      "description": "Brief information about the company or team."
+    },
+    {
+      "name": "Contact Form",
+      "description": "Form for sending messages or inquiries."
+    },
+    {
+      "name": "Trust Badges",
+      "description": "Icons to increase trust, such as security certificates or partner logos."
+    },
+    {
+      "name": "Testimonials Carousel",
+      "description": "Dynamic carousel of customer testimonials that automatically switches."
+    },
+    {
+      "name": "FAQ Section",
+      "description": "Block of frequently asked questions and answers."
+    },
+    {
+      "name": "Partners Section",
+      "description": "Logos and links to company partners and sponsors."
+    },
+    {
+      "name": "Interactive Maps",
+      "description": "Maps with interactive features, such as marking offices or stores."
+    },
+    {
+      "name": "Calculator",
+      "description": "Interactive tool for calculating the cost of a service or product."
+    },
+    {
+      "name": "Event Countdown Timer",
+      "description": "Timer counting down to the start of an event or promotion."
+    },
+    {
+      "name": "Callback Request",
+      "description": "Form for requesting a callback from the company."
+    },
+    {
+      "name": "Social Media Feed Integration",
+      "description": "Embedded feed from social networks, such as Instagram or Twitter."
+    },
+    {
+      "name": "Portfolio",
+      "description": "Examples of completed work or projects."
+    },
+    {
+      "name": "Booking Form",
+      "description": "Form for booking services or registering for events."
+    },
+    {
+      "name": "Multi-Step Forms",
+      "description": "Forms divided into multiple steps to simplify completion."
+    },
+    {
+      "name": "Quick Action Buttons",
+      "description": "Quick links for primary actions, such as 'Call Now', 'Write on WhatsApp'."
+    },
+    {
+      "name": "Interactive Charts and Graphs",
+      "description": "Visualization of data about products, services, or the company."
+    },
+    {
+      "name": "Multilingual Support",
+      "description": "Language selection for content display."
+    },
+    {
+      "name": "Blog",
+      "description": "List of company articles and news."
+    },
+    {
+      "name": "Job Listings",
+      "description": "Open job positions and career information at the company."
+    },
+    {
+      "name": "Events Calendar",
+      "description": "Calendar of upcoming events and activities."
+    },
+    {
+      "name": "Event Registration Form",
+      "description": "Form for registering for events."
+    },
+    {
+      "name": "Employee Stories",
+      "description": "Stories and testimonials from company employees."
+    },
+    {
+      "name": "Weather Widget",
+      "description": "Information about current weather conditions, if relevant to the site."
+    }
+  ],
+  "businessWidgets": [
+    {
+      "name": "Hero Section",
+      "description": "Large headline, subheadline, and call-to-action (CTA) with a background image or video."
+    },
+    {
+      "name": "Lead Capture Form",
+      "description": "Simple form for collecting visitor contact information, such as name and email."
+    },
+    {
+      "name": "Navigation Menu",
+      "description": "Simplified menu that allows visitors to quickly find the information they need."
+    },
+    {
+      "name": "Image Slider",
+      "description": "Carousel of images or banners to showcase key products or services."
+    },
+    {
+      "name": "Video Player",
+      "description": "Embedded video explaining a product or service."
+    },
+    {
+      "name": "Accordion",
+      "description": "Expanding sections for simplified presentation of information, such as FAQs."
+    },
+    {
+      "name": "Testimonials",
+      "description": "Block of customer testimonials to build trust."
+    },
+    {
+      "name": "Call to Action Button",
+      "description": "Buttons prompting action, such as 'Buy Now' or 'Schedule a Consultation'."
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "Creates a sense of urgency, especially for promotions and sales."
+    },
+    {
+      "name": "Image Gallery",
+      "description": "Displays product photos, events, or team members."
+    },
+    {
+      "name": "Social Media Icons",
+      "description": "Links to social media pages."
+    },
+    {
+      "name": "Map",
+      "description": "Embedded map to indicate the location of your office or store."
+    },
+    {
+      "name": "Progress Bar",
+      "description": "Displays stages of a process, such as order fulfillment."
+    },
+    {
+      "name": "Subscription Forms",
+      "description": "Form for subscribing to newsletters or updates."
+    },
+    {
+      "name": "Pop-up",
+      "description": "Pop-up window for special offers or collecting contact information."
+    },
+    {
+      "name": "Pricing Tables",
+      "description": "Compares different plans or service packages."
+    },
+    {
+      "name": "Sticky Header",
+      "description": "Top menu that remains on the screen when scrolling."
+    },
+    {
+      "name": "About Us Section",
+      "description": "Brief information about the company or team."
+    },
+    {
+      "name": "Contact Form",
+      "description": "Form for sending messages or inquiries."
+    },
+    {
+      "name": "Trust Badges",
+      "description": "Icons to increase trust, such as security certificates or partner logos."
+    },
+    {
+      "name": "Testimonials Carousel",
+      "description": "Dynamic carousel of customer testimonials that automatically switches."
+    },
+    {
+      "name": "FAQ Section",
+      "description": "Block of frequently asked questions and answers."
+    },
+    {
+      "name": "Partners Section",
+      "description": "Logos and links to company partners and sponsors."
+    },
+    {
+      "name": "Interactive Maps",
+      "description": "Maps with interactive features, such as marking offices or stores."
+    },
+    {
+      "name": "Calculator",
+      "description": "Interactive tool for calculating the cost of a service or product."
+    },
+    {
+      "name": "Event Countdown Timer",
+      "description": "Timer counting down to the start of an event or promotion."
+    },
+    {
+      "name": "Callback Request",
+      "description": "Form for requesting a callback from the company."
+    },
+    {
+      "name": "Social Media Feed Integration",
+      "description": "Embedded feed from social networks, such as Instagram or Twitter."
+    },
+    {
+      "name": "Portfolio",
+      "description": "Examples of completed work or projects."
+    },
+    {
+      "name": "Booking Form",
+      "description": "Form for booking services or registering for events."
+    },
+    {
+      "name": "Multi-Step Forms",
+      "description": "Forms divided into multiple steps to simplify completion."
+    },
+    {
+      "name": "Quick Action Buttons",
+      "description": "Quick links for primary actions, such as 'Call Now', 'Write on WhatsApp'."
+    },
+    {
+      "name": "Interactive Charts and Graphs",
+      "description": "Visualization of data about products, services, or the company."
+    },
+    {
+      "name": "Multilingual Support",
+      "description": "Language selection for content display."
+    },
+    {
+      "name": "Blog",
+      "description": "List of company articles and news."
+    },
+    {
+      "name": "Job Listings",
+      "description": "Open job positions and career information at the company."
+    },
+    {
+      "name": "Events Calendar",
+      "description": "Calendar of upcoming events and activities."
+    },
+    {
+      "name": "Event Registration Form",
+      "description": "Form for registering for events."
+    },
+    {
+      "name": "Employee Stories",
+      "description": "Stories and testimonials from company employees."
+    },
+    {
+      "name": "Weather Widget",
+      "description": "Information about current weather conditions, if relevant to the site."
+    }
+  ],
+  "why_us_arr": [
+    {
+      "header": "Fair Cooperation Terms",
+      "text": "A contract with clearly defined guarantees and obligations."
+    },
+    {
+      "header": "Flexible Payment Approach",
+      "text": "The ability to choose from several payment options: 70/30, 60/40, 50/50 per stage."
+    },
+    {
+      "header": "Continuous Interaction",
+      "text": "Communication through your preferred channels for prompt interaction."
+    },
+    {
+      "header": "Ongoing Process Control",
+      "text": "Providing reports and interim results at each stage of work."
+    },
+    {
+      "header": "Training and Support",
+      "text": "Training in site usage and technical support at any time."
+    },
+    {
+      "header": "Demonstration of Admin Panel Functionality",
+      "text": "Providing test access to familiarize yourself with site management."
+    },
+    {
+      "header": "Deep Dive into Your Business",
+      "text": "Studying the specifics of your industry to create effective design."
+    },
+    {
+      "header": "Individual Approach to Design and Development",
+      "text": "Creating unique design and optimized code tailored to your audience."
+    },
+    {
+      "header": "Search Engine Optimization",
+      "text": "Applying technical methods to increase your site's visibility and comply with Google's requirements."
+    }
+  ]
+}
