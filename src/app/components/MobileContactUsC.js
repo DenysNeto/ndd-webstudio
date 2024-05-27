@@ -4,6 +4,8 @@ import ModalC from "../components/ModalC";
 import FormAskQuestions from "../components/FormAskQuestions";
 import React, { useState } from "react";
 import { useTranslation } from "../hooks/LanguageContext";
+import Image1 from "../assets/img/robot_head.png";
+import Image from "next/image";
 
 import {
   handleFacebookClick,
@@ -23,6 +25,7 @@ import {
   faComment,
   faCircleExclamation,
   faBars,
+  faEllipsis,
 } from "@fortawesome/free-solid-svg-icons";
 
 const MobileContactUsC = (props) => {
@@ -137,11 +140,13 @@ const MobileContactUsC = (props) => {
         id="mobile-navigation"
         onClick={openModal}
         className="round-btn-wrapper mobile-btn-wrapper">
-        <FontAwesomeIcon
+        <Image style={{ height: "10vw", width: "auto" }} src={Image1}></Image>
+
+        {/* <FontAwesomeIcon
           className="round-icon"
           style={{ height: "10vw" }}
-          icon={faBars}
-        />
+          icon={faEllipsis}
+        /> */}
       </div>
       <style jsx>{`
         .round-icon {

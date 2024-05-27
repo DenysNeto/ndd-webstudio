@@ -1,7 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import ButtonC from "@/app/components/ButtonC";
-import WriteUsC from "@/app/components/WriteUsC";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleCheck } from "@fortawesome/free-solid-svg-icons";
 import Image from "next/image";

@@ -5,16 +5,20 @@ import ButtonC from "@/app/components/ButtonC";
 import CardC from "@/app/components/CardC";
 import AskQuestionBlock from "@/app/components/AskQuestionBlock";
 import DevelopmentBlock from "@/app/components/DevelopmentBlock";
-
+import PricingBlock from "@/app/components/PricingBlock";
 import Link from "next/link";
 import PortfolioBlock from "@/app/components/PortfolioBlock";
 import WhyUsBlock from "@/app/components/WhyUsBlock";
-
+import useIntersectionObserver from "@/app/hooks/useIntersectionObserver";
 import { useTranslation } from "../hooks/LanguageContext";
 
 const FirstPageBlock = (props) => {
   const { t } = useTranslation();
   const services = t("services_arr");
+
+  const [ref, isVisible] = useIntersectionObserver({
+    threshold: 0.1, // Adjust the threshold as needed
+  });
 
   return (
     <div style={{ paddingTop: "2em" }} id="wrapper">
@@ -46,7 +50,10 @@ const FirstPageBlock = (props) => {
       <SectionC className="wrapper style4 fullscreen fade-up ">
         <HeaderC title={t("services")} />
         <div
-          className="card-grid"
+          ref={ref}
+          className={`card-grid animate__animated ${
+            isVisible ? "animate__slideInUp" : "invissible"
+          }`}
           style={{
             display: "flex",
             width: "100%",
@@ -59,6 +66,8 @@ const FirstPageBlock = (props) => {
           ))}
         </div>
       </SectionC>
+
+      <PricingBlock className="style2" />
 
       <SectionC className="wrapper style1 fullscreen fade-up">
         <PortfolioBlock />

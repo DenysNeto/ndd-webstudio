@@ -32,7 +32,7 @@ function RootLayout({ children }) {
 
           <Sidebar></Sidebar>
           {children}
-          <div id="wrapper">
+          <div style={{ paddingTop: "0 !important" }} id="wrapper">
             <FooterC></FooterC>
           </div>
         </LanguageProvider>

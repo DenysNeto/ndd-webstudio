@@ -114,7 +114,6 @@ export const whyUs = [
 ];
 
 export const arrayPortfolio = [
-  "aerial",
   "alpha",
   "arcana",
   "astral",
@@ -125,7 +124,6 @@ export const arrayPortfolio = [
   "editorial",
   "escape-velocity",
   "ethereal",
-  "eventually",
   "forty",
   "fractal",
   "future-imperfect",

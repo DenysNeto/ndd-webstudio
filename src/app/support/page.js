@@ -58,7 +58,7 @@ export default function Home() {
           })}></TableC>
       </SectionC>
 
-      <SectionC className="wrapper style2 fullscreen fade-up">
+      <SectionC className="wrapper style1 fullscreen fade-up">
         <PortfolioBlock />
       </SectionC>
 

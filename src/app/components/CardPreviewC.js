@@ -9,9 +9,11 @@ const CardPreviewC = (props) => {
   const handleClick = (ev) => {
     // ev.preventDefault();
     // ev.nativeEvent.stopImmediatePropagation();
-    setTimeout(() => {
-      window.location.reload();
-    }, 3000);
+    if (window.location.href.includes("portfolio_viewer")) {
+      setTimeout(() => {
+        window.location.reload();
+      }, 1000);
+    }
   };
   return (
     <div

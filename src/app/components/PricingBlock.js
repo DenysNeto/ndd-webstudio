@@ -25,7 +25,7 @@ const PricingBlock = (props) => {
           flexDirection: "column",
         }}>
         <h3>{t("price_text")}</h3>
-        <Link styles={{ width: "100%" }} href="/pricing">
+        <Link style={{ width: "100%" }} href="/pricing">
           <ButtonC
             styles={{ width: "100%" }}
             label={t("prices_calculator")}></ButtonC>
