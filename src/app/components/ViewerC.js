@@ -15,7 +15,7 @@ const ViewerC = (props) => {
   const [name, setName] = useState(props.name || "aerial");
 
   const [src, setSrc] = useState(
-    `https://site-production-0e44.up.railway.app/${name}/index.html`
+    `https://site-mocha-two-59.vercel.app/site/${name}/index.html`
   );
 
   const setMobile = () => {
