@@ -17,7 +17,7 @@ const FirstPageBlock = (props) => {
   const services = t("services_arr");
 
   const [ref, isVisible] = useIntersectionObserver({
-    threshold: 0.1, // Adjust the threshold as needed
+    threshold: 0.1,
   });
 
   return (

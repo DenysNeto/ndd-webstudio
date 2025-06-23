@@ -4,7 +4,6 @@ import { useTranslation } from "@/app/hooks/LanguageContext";
 
 const BlocksC = (props) => {
   const { t } = useTranslation();
-  // size - large ,  small
 
   const [showWidgets, setShowWidgets] = useState(
     Array(props.content.length).fill(false)

@@ -1,5 +1,4 @@
 "use client";
-import { useState, useEffect } from "react";
 import useTypewriter from "@/app/hooks/useTypewriter";
 
 const HeaderC = (props) => {

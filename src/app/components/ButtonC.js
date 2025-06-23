@@ -1,6 +1,4 @@
 const ButtonC = (props) => {
-  // size - large ,  small
-
   return (
     <button
       onClick={props.onClick}

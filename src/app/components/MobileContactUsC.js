@@ -21,12 +21,7 @@ import {
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
-import {
-  faComment,
-  faCircleExclamation,
-  faBars,
-  faEllipsis,
-} from "@fortawesome/free-solid-svg-icons";
+import { faComment } from "@fortawesome/free-solid-svg-icons";
 
 const MobileContactUsC = (props) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -141,12 +136,6 @@ const MobileContactUsC = (props) => {
         onClick={openModal}
         className="round-btn-wrapper mobile-btn-wrapper">
         <Image style={{ height: "10vw", width: "auto" }} src={Image1}></Image>
-
-        {/* <FontAwesomeIcon
-          className="round-icon"
-          style={{ height: "10vw" }}
-          icon={faEllipsis}
-        /> */}
       </div>
       <style jsx>{`
         .round-icon {

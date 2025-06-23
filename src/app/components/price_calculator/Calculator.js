@@ -62,9 +62,6 @@ const Home = () => {
 
   const countSum = () => {
     return siteTypePrice() + siteModulesPrice() + sitePagesPrice();
-    // lp
-    // site visitka
-    // module
   };
 
   const clearAll = () => {

@@ -1,7 +1,6 @@
 "use client";
 
 const ListC = (props) => {
-  console.log("XX", props.items);
   return (
     <div
       style={{

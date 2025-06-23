@@ -45,7 +45,7 @@ const FormAskQuestions = (props) => {
       .then((response) => response.json())
       .then((data) => {
         showNotification(t("your_request_sent_sucessfully"), "success");
-        //  console.log("Success:", data);
+
         // Handle success - e.g., display a success message
       })
       .catch((error) => {
@@ -55,8 +55,6 @@ const FormAskQuestions = (props) => {
   };
 
   let textRequired = "*required";
-
-  // size - large ,  small
 
   return (
     <>

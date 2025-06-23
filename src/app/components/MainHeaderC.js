@@ -1,4 +1,3 @@
-import { gradientsArray } from "@/app/assets/data/cssGradients";
 import SectionC from "../components/SectionC";
 import Image1 from "../assets/img/robot_head.png";
 import Image from "next/image";
